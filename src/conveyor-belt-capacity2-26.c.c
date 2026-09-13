@@ -1,8 +1,8 @@
-#include <stdio.h>     //This Allows as to use printf()and scanf().     
+#include <stdio.h>         
 
-int MOTOR_CAPACITY = 12;  // Each motor can carry 12 kg.
-int main() {              // the program starts here.
-    int motorCount, totalPackageWeight; // Here we create two integer variables
+int MOTOR_CAPACITY = 12;  
+int main() {              
+    int motorCount, totalPackageWeight; 
 
                /// Our codes starts from here
 
