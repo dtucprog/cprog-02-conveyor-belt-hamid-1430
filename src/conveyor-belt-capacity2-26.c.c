@@ -1,12 +1,11 @@
-#include <stdio.h>
+#include <stdio.h>         
 
-int MOTOR_CAPACITY = 12;
+int MOTOR_CAPACITY = 12;  
+int main() {              
+    int motorCount, totalPackageWeight; 
 
-int main() {
-    int motorCount, totalPackageWeight;
+               /// Our codes starts from here
 
-    /// YOUR CODE HERE
-    
     //*************  SEQUENCE ****** Ask the user for the required information
 
     printf("How many motors are carrying the packages?\n"); // Ask for number of motors.
